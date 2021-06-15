@@ -1,4 +1,3 @@
-Prepending for JustinBranch
 # Lab3GroupRepo
 Project Team Members:
 Mia Nguyen
