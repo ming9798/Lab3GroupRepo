@@ -1,3 +1,1 @@
-# Lab3GroupRepo
-Mia Nguyen
-Dawson Voth
+Project Team Members: Mia Nguyen Tahira Zafar Jack Stolt Dawson Voth
